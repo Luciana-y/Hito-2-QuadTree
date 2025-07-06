@@ -1,0 +1,5 @@
+C:/Users/Cesar/Desktop/waza/cmake-build-debug/CMakeFiles/waza.dir
+C:/Users/Cesar/Desktop/waza/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Cesar/Desktop/waza/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Cesar/Desktop/waza/cmake-build-debug/CMakeFiles/waza_autogen_timestamp_deps.dir
+C:/Users/Cesar/Desktop/waza/cmake-build-debug/CMakeFiles/waza_autogen.dir

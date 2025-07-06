@@ -1,0 +1,10 @@
+# ninja log v6
+63	440	7734880600113409	waza_autogen/timestamp	c3f34a281af1aed6
+63	440	7734880600113409	waza_autogen/mocs_compilation.cpp	c3f34a281af1aed6
+302	389	7734471190967550	CMakeFiles/waza.dir/waza_autogen/mocs_compilation.cpp.obj	770ff8ddcf99e55a
+63	440	7734880600113409	C:/Users/Cesar/Desktop/waza/cmake-build-debug/waza_autogen/mocs_compilation.cpp	c3f34a281af1aed6
+63	440	7734880600113409	C:/Users/Cesar/Desktop/waza/cmake-build-debug/waza_autogen/timestamp	c3f34a281af1aed6
+2519	6445	7734540251213065	CMakeFiles/waza.dir/main.cpp.obj	c7070232f6c0a40b
+4370	4756	7734535126115906	CMakeFiles/waza.dir/pointQuadTree.cpp.obj	4c80c6314c870c59
+441	4513	7734880603895562	waza.exe	bf10b6497dfc560d
+33	1451	7734881556507218	build.ninja	e988d31b3d43af77
